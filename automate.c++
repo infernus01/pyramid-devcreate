@@ -14,7 +14,7 @@ string cows_breed[] = {"gir", "red sindhu", "sahiwal","halikar","khilari","bargu
 	
 	string gn[] = {"male", "female"};
 	
-			cout<<"======================Dogs data============================="<<endl;
+			cout<<"======================Dogs data=============================="<<endl;
 			for(int j=0; j<=50; j++){
 			cout<<"{\nkey:"<<j<<",\nname:"<<"'"<<name[j]<<"'"<<",\nbreed: "<<"'"<<br[j]<<"'"<<",\n},\n";
 			
